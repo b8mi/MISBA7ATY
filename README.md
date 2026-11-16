@@ -30,11 +30,3 @@ On Windows, `py main.py` also works when the Python launcher is installed.
 
 اختر الذكر واضغط **+1 تسبيحة** أو مفتاح **المسافة**. يمكنك تغيير الهدف بين 33 و100. الأعداد لا تُحفظ بعد إغلاق البرنامج.
 
-## Repository description
-
-عداد تسبيح رقمي عربي مع أهداف 33 و100، واختيارات متعددة للأذكار.
-
-## GitHub topics
-
-`python`, `tkinter`, `arabic`, `islam`, `tasbeeh`, `counter`, `desktop-app`
-
