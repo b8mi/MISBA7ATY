@@ -3,7 +3,7 @@
 > عداد تسبيح رقمي عربي مع أهداف 33 و100، واختيارات متعددة للأذكار.
 
 A tiny, standalone Python desktop project. **Only three repository files**: `main.py`, `README.md`, and `requirements.txt`.
-
+ 
 ## Features
 
 - عداد مستقل لكل ذكر
